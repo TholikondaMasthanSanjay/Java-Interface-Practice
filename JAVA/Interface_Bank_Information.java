@@ -141,6 +141,6 @@ public class  Interface_Bank_Information {
 
         }while(option != 0);
 
-        System.out.println("Thank you for banking!");
-    }
+      
 }
+} 
